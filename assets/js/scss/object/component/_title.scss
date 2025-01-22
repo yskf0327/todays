@@ -1,0 +1,23 @@
+.c-title01 {
+  text-align: left;
+  font-weight: normal;
+  // color: var(--main-color);
+}
+
+.c-title02 {
+  color: var(--white);
+  background-color: var(--sub-color);
+  font-size: var(--fz-xl);
+  width: 2em;
+  height: 2em;
+  border-radius: 50%;
+  display: grid;
+  place-content: center;
+}
+
+.c-title-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--s-md);
+}

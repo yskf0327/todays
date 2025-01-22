@@ -1,0 +1,15 @@
+.p-menu-list {
+  padding-inline-start: 2em;
+}
+
+.p-menu-list__item {
+  font-size: var(--fz-xl);
+  list-style-type: disc;
+  & + & {
+    margin-block-start: var(--s-xl);
+  }
+
+  span {
+    background-image: linear-gradient(0deg, color-mix(in srgb, var(--main-color), transparent 30%) 20%, transparent 0%);
+  }
+}
