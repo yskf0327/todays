@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>6H コーディング基礎演習</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="./css/style.css" />
   </head>
   <body>
     <header class="l-header">
@@ -15,23 +15,25 @@
     </header>
     <main class="l-main">
       <section class="l-section">
-        <div class="l-container l-section__inner">
-          <hgroup class="c-title-group">
-            <h2 class="c-title02" id="times">1</h2>
-            <p>
-              <time datetime="2025-01-22">2025.1.22</time>
-            </p>
-          </hgroup>
-          <ul class="p-menu-list" id="menu-list">
-            <li class="p-menu-list__item"><span>World Wide Web について知ろう</span></li>
-            <li class="p-menu-list__item"><span>コーディングに必要なツールや環境設定をしよう</span></li>
-            <li class="p-menu-list__item"><span>HTMLの基本を学ぼう</span></li>
-          </ul>
+        <div class="l-container">
+          <ol class="c-tab-wrapper" id="tab-wrapper">
+            
+          </ol>
+          <div class="l-section__inner">
+            <hgroup class="c-title-group">
+              <h2 class="c-title02" id="times"></h2>
+              <p>
+                <time id="datetime"></time>
+              </p>
+            </hgroup>
+            <ul class="p-menu-list" id="menu-list"></ul>
+          </div>
         </div>
       </section>
     </main>
     <footer class="l-footer">
       <small>&copy; 2025 Yusuke Fukumoto</small>
     </footer>
+    <script type="module" src="./assets/js/script.js"></script>
   </body>
 </html>

@@ -20,3 +20,10 @@ img {
   display: block;
   max-width: 100%;
 }
+
+button {
+  appearance: none;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
