@@ -28,6 +28,9 @@ lessonData.forEach((lesson) => {
   tabWrapper.insertAdjacentElement('beforeend', tab);
 
   tabButton.addEventListener('click', (e) => {
+    const currentActiveTab = document.querySelector('.active');
+    currentActiveTab.classList.remove('active');
+    e.target.classList.add('active');
     const targetLessonId = parseInt(e.target.innerText);
     // console.log(targetLessonId);
     const targetLesson = lessonData.find((data) => {
@@ -36,7 +39,7 @@ lessonData.forEach((lesson) => {
         return data;
       }
     });
-    console.log(targetLesson);
+    // console.log(targetLesson);
 
     menuListArea.innerHTML = '';
     displayLesson(targetLesson);
@@ -49,7 +52,7 @@ function displayLesson(lesson) {
   dateArea.innerText = lesson.datetime.replace(/-/g, '.');
   console.log(lesson.menuList);
   lesson.menuList.forEach((menuItem) => {
-    console.log(menuItem);
+    // console.log(menuItem);
     const menuListItem = document.createElement('li');
     menuListItem.classList.add('p-menu-list__item');
     menuListItem.insertAdjacentHTML('beforeend', `<span>${menuItem}</span>`);
