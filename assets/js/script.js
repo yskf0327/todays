@@ -12,15 +12,25 @@ const datetime = `${now.getFullYear()}-${(now.getMonth() + 1).toString().padStar
 const todaysLesson = lessonData.find((data) => {
   if (checkDate(datetime, data.datetime)) {
     return data;
+  } else {
+    return false;
   }
 });
 
-displayLesson(todaysLesson);
+console.log(todaysLesson);
 
-lessonData.forEach((lesson) => {
+if (todaysLesson) {
+  displayLesson(todaysLesson);
+} else {
+  displayLesson(lessonData[0]);
+}
+
+lessonData.forEach((lesson, i) => {
   const tab = document.createElement('li');
   const tabButton = document.createElement('button');
   if (checkDate(datetime, lesson.datetime)) {
+    tabButton.classList.add('active');
+  } else if (i === 0) {
     tabButton.classList.add('active');
   }
   tabButton.insertAdjacentText('beforeend', lesson.times);
@@ -50,7 +60,6 @@ function displayLesson(lesson) {
   timesArea.innerText = lesson.times;
   dateArea.setAttribute('datetime', lesson.datetime);
   dateArea.innerText = lesson.datetime.replace(/-/g, '.');
-  console.log(lesson.menuList);
   lesson.menuList.forEach((menuItem) => {
     // console.log(menuItem);
     const menuListItem = document.createElement('li');
