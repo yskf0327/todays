@@ -9,10 +9,13 @@
   --fz-xl: clamp(32px, 27.041px + 1.322vw, 40px);
 
   //色
-  --main-color: #e94708;
-  --sub-color: #8f8eaf;
-  --base-color: #fcd58c;
-  --text-color: #27120a;
+  --main-color: #00c9e8;
+  --sub-color: #293233;
+  --base-color: #bce2e8;
+  // --main-color: hsl(0, 0%, 25%);
+  // --sub-color: hsl(0, 0%, 50%);
+  // --base-color: hsl(0, 0%, 75%);
+  --text-color: #293233;
   --white: #f4f5f1;
   --grey25: color-mix(in srgb, #000000, #ffffff 25%);
   --grey50: color-mix(in srgb, #000000, #ffffff 50%);

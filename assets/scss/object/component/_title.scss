@@ -1,7 +1,16 @@
 .c-title01 {
-  text-align: left;
-  font-weight: normal;
-  // color: var(--main-color);
+  & > * {
+    font-size: var(--fz-lg);
+  }
+
+  & > h1 {
+    font-weight: normal;
+  }
+
+  & > p {
+    font-weight: bold;
+    margin-block-start: var(--s-sm);
+  }
 }
 
 .c-title02 {

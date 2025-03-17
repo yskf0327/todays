@@ -1,0 +1,13 @@
+.p-select-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--s-sm);
+}
+
+select:is([name='class-select'], [name='subject-select']) {
+  // font-size: 3rem;
+  // color: red;
+  font-size: var(--fz-md);
+  padding: var(--s-xs);
+}

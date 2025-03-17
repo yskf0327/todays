@@ -3,24 +3,36 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>6H コーディング基礎演習</title>
+    <title>スケジュール</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="./css/style.css" />
   </head>
   <body>
     <header class="l-header">
       <div class="l-container l-headder__inner">
-        <h1 class="c-title01">6H コーディング基礎演習</h1>
+        <div class="p-select-wrapper">
+          <select name="class-select" id="class-select">
+            <option hidden>クラスを選択</option>
+          </select>
+          <select name="subject-select" id="subject-select" disabled>
+            <option hidden>科目を選択</option>
+          </select>
+        </div>
+        <!-- <select name="class-select" id="class-select">
+          <option hidden>クラスを選択</option>
+        </select> -->
+        <!-- <hgroup class="c-title01">
+          <h1 id="page-heading"></h1>
+          <p id="page-sub-heading"></p>
+        </hgroup> -->
       </div>
     </header>
     <main class="l-main">
       <section class="l-section">
         <div class="l-container">
-          <ol class="c-tab-wrapper" id="tab-wrapper">
-            
-          </ol>
+          <ol class="c-tab-wrapper" id="tab-wrapper"></ol>
           <div class="l-section__inner">
-            <hgroup class="c-title-group">
+            <hgroup class="c-title-group u-hide" id="times-datetime">
               <h2 class="c-title02" id="times"></h2>
               <p>
                 <time id="datetime"></time>
@@ -35,5 +47,7 @@
       <small>&copy; 2025 Yusuke Fukumoto</small>
     </footer>
     <script type="module" src="./assets/js/script.js"></script>
+
+    <!-- <script type="module" src="./assets/js/test.js"></script> -->
   </body>
 </html>

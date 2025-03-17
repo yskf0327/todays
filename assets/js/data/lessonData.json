@@ -1,0 +1,276 @@
+[
+  {
+    "classId": 1,
+    "subjectId": 1,
+    "lessonId": 1,
+    "lessonData": [
+      {
+        "times": 1,
+        "datetime": "2025-03-18",
+        "menuList": ["Webの仕組みについて", "Web制作の準備", "HTMLの基本"],
+        "assigned": true
+      },
+      {
+        "times": 2,
+        "datetime": "2025-03-19",
+        "menuList": ["CSSの基本", "SNSリンク集の作成"],
+        "assigned": true
+      },
+      {
+        "times": 3,
+        "datetime": "2025-03-21",
+        "menuList": ["Webサイトの基本構造", "アウトラインとセクション", "フレックスレイアウト"],
+        "assigned": true
+      },
+      {
+        "times": 4,
+        "datetime": "2025-03-24",
+        "menuList": ["フォームのマークアップ", "Webフォントの利用", "1カラムページの作成"],
+        "assigned": true
+      },
+      {
+        "times": 5,
+        "datetime": "2025-03-27",
+        "menuList": ["1カラムページの作成(続き)"],
+        "assigned": true
+      },
+      {
+        "times": 6,
+        "datetime": "2025-03-28",
+        "menuList": ["CSSアニメーション", "レスポンシブデザイン(マルチデバイス対応)"],
+        "assigned": true
+      },
+      {
+        "times": 7,
+        "datetime": "2025-03-31",
+        "menuList": ["複数ページのサイト制作", "モバイルファースト"],
+        "assigned": true
+      },
+      {
+        "times": 8,
+        "datetime": "2025-04-04",
+        "menuList": ["Figmaの基本", "デザインカンプの確認方法", "デザインカンプからのコーディング演習"],
+        "assigned": true
+      },
+      {
+        "times": 9,
+        "datetime": "2025-04-10",
+        "menuList": ["デザインカンプからのコーディング演習"],
+        "assigned": true
+      },
+      {
+        "times": 10,
+        "datetime": "2025-04-11",
+        "menuList": ["JavaScriptとは", "JavaScript基礎"],
+        "assigned": true
+      },
+      {
+        "times": 11,
+        "datetime": "2025-04-18",
+        "menuList": ["DOMの操作", "イベント処理"],
+        "assigned": true
+      },
+      {
+        "times": 12,
+        "datetime": "2025-04-21",
+        "menuList": ["ドロワーメニューを作ろう", "jQuery基礎", "jQueryプラグインを使ってみよう"],
+        "assigned": true
+      },
+      {
+        "times": 13,
+        "datetime": "2025-04-24",
+        "menuList": ["課題制作"],
+        "assigned": true
+      },
+      {
+        "times": 14,
+        "datetime": "2025-04-25",
+        "menuList": ["課題制作"],
+        "assigned": true
+      }
+    ]
+  },
+  {
+    "classId": 2,
+    "subjectId": 1,
+    "lessonId": 1,
+    "lessonData": [
+      {
+        "times": 1,
+        "datetime": "2025-04-08",
+        "menuList": [],
+        "assigned": true
+      },
+      {
+        "times": 2,
+        "datetime": "2025-04-09",
+        "menuList": [],
+        "assigned": true
+      },
+      {
+        "times": 3,
+        "datetime": "2025-04-10",
+        "menuList": [],
+        "assigned": false
+      },
+      {
+        "times": 4,
+        "datetime": "2025-04-11",
+        "menuList": [],
+        "assigned": false
+      },
+      {
+        "times": 5,
+        "datetime": "2025-04-14",
+        "menuList": [],
+        "assigned": false
+      },
+      {
+        "times": 6,
+        "datetime": "2025-04-15",
+        "menuList": [],
+        "assigned": true
+      },
+      {
+        "times": 7,
+        "datetime": "2025-04-16",
+        "menuList": [],
+        "assigned": true
+      },
+      {
+        "times": 8,
+        "datetime": "2025-04-17",
+        "menuList": [],
+        "assigned": true
+      },
+      {
+        "times": 9,
+        "datetime": "2025-04-18",
+        "menuList": [],
+        "assigned": false
+      },
+      {
+        "times": 10,
+        "datetime": "2025-04-22",
+        "menuList": [],
+        "assigned": false
+      },
+      {
+        "times": 11,
+        "datetime": "2025-04-24",
+        "menuList": [],
+        "assigned": false
+      },
+      {
+        "times": 12,
+        "datetime": "2025-04-25",
+        "menuList": [],
+        "assigned": false
+      },
+      {
+        "times": 13,
+        "datetime": "2025-04-28",
+        "menuList": [],
+        "assigned": false
+      },
+      {
+        "times": 14,
+        "datetime": "2025-05-01",
+        "menuList": [],
+        "assigned": true
+      },
+      {
+        "times": 15,
+        "datetime": "2025-05-02",
+        "menuList": [],
+        "assigned": true
+      }
+    ]
+  },
+  {
+    "classId": 2,
+    "subjectId": 2,
+    "lessonId": 1,
+    "lessonData": [
+      {
+        "times": 1,
+        "datetime": "2025-05-09",
+        "menuList": [],
+        "assigned": true
+      },
+      {
+        "times": 2,
+        "datetime": "2025-05-12",
+        "menuList": [],
+        "assigned": false
+      },
+      {
+        "times": 3,
+        "datetime": "2025-05-13",
+        "menuList": [],
+        "assigned": false
+      }
+    ]
+  },
+  {
+    "classId": 2,
+    "subjectId": 3,
+    "lessonId": 1,
+    "lessonData": [
+      {
+        "times": 1,
+        "datetime": "2025-05-14",
+        "menuList": [],
+        "assigned": true
+      },
+      {
+        "times": 2,
+        "datetime": "2025-05-15",
+        "menuList": [],
+        "assigned": true
+      },
+      {
+        "times": 3,
+        "datetime": "2025-05-16",
+        "menuList": [],
+        "assigned": false
+      },
+      {
+        "times": 4,
+        "datetime": "2025-05-19",
+        "menuList": [],
+        "assigned": false
+      },
+      {
+        "times": 5,
+        "datetime": "2025-05-20",
+        "menuList": [],
+        "assigned": false
+      },
+      {
+        "times": 6,
+        "datetime": "2025-05-21",
+        "menuList": [],
+        "assigned": false
+      },
+      {
+        "times": 7,
+        "datetime": "2025-05-23",
+        "menuList": [],
+        "assigned": false
+      },
+      {
+        "times": 8,
+        "datetime": "2025-05-27",
+        "menuList": [],
+        "assigned": false
+      },
+      {
+        "times": 9,
+        "datetime": "2025-05-28",
+        "menuList": [],
+        "assigned": false
+      }
+    ]
+  }
+]

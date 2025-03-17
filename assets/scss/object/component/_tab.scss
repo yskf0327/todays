@@ -20,5 +20,8 @@
       background-color: var(--sub-color);
       border-color: var(--sub-color);
     }
+    &:not(.assigned) {
+      opacity: 0.3;
+    }
   }
 }
