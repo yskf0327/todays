@@ -272,5 +272,31 @@
         "assigned": false
       }
     ]
+  },
+  {
+    "classId": 3,
+    "subjectId": 1,
+    "lessonId": 1,
+    "lessonData": [
+      {
+        "times": 1,
+        "datetime": "2025-03-26",
+        "menuList": ["自己紹介", "コンピュータ基本操作", "タイピング"],
+        "assigned": true
+      }
+    ]
+  },
+  {
+    "classId": 3,
+    "subjectId": 2,
+    "lessonId": 2,
+    "lessonData": [
+      {
+        "times": 1,
+        "datetime": "2025-03-26",
+        "menuList": ["自己紹介", "コンピュータ基本操作", "タイピング"],
+        "assigned": true
+      }
+    ]
   }
 ]

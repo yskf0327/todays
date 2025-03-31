@@ -22,5 +22,13 @@
     "start": "10:00",
     "end": "16:40",
     "subjects": [1]
+  },
+  {
+    "classId": 4,
+    "className": "3月開講 これから始める！Web・SNS動画編集&ホームページデザイン科",
+    "roomNo": "7A",
+    "start": "10:00",
+    "end": "16:40",
+    "subjects": [1]
   }
 ]

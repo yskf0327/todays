@@ -38,6 +38,10 @@
     "subjects": [
       {
         "subjectId": 1,
+        "subjectName": "コンピュータ基本操作・安全衛生"
+      },
+      {
+        "subjectId": 2,
         "subjectName": "Web制作実習"
       }
     ]
