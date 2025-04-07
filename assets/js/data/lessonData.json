@@ -98,91 +98,91 @@
       {
         "times": 1,
         "datetime": "2025-04-08",
-        "menuList": [],
+        "menuList": ["Web概論", "Web制作の流れ", "Visual Studio Codeの基本操作", "HTML基礎①"],
         "assigned": true
       },
       {
         "times": 2,
         "datetime": "2025-04-09",
-        "menuList": [],
+        "menuList": ["HTML基礎②"],
         "assigned": true
       },
       {
         "times": 3,
         "datetime": "2025-04-10",
-        "menuList": [],
+        "menuList": ["CSS基礎①"],
         "assigned": false
       },
       {
         "times": 4,
         "datetime": "2025-04-11",
-        "menuList": [],
+        "menuList": ["CSS基礎②"],
         "assigned": false
       },
       {
         "times": 5,
         "datetime": "2025-04-14",
-        "menuList": [],
+        "menuList": ["CSS基礎③", "シングルカラムレイアウト"],
         "assigned": false
       },
       {
         "times": 6,
         "datetime": "2025-04-15",
-        "menuList": [],
+        "menuList": ["2カラムレイアウト"],
         "assigned": true
       },
       {
         "times": 7,
         "datetime": "2025-04-16",
-        "menuList": [],
+        "menuList": ["グリッドレイアウト", "外部メディアの利用"],
         "assigned": true
       },
       {
         "times": 8,
         "datetime": "2025-04-17",
-        "menuList": [],
+        "menuList": ["Figma基本操作①", "コーディング実践演習①"],
         "assigned": true
       },
       {
         "times": 9,
         "datetime": "2025-04-18",
-        "menuList": [],
+        "menuList": ["コーディング実践演習②"],
         "assigned": false
       },
       {
         "times": 10,
         "datetime": "2025-04-22",
-        "menuList": [],
+        "menuList": ["コーディング実践演習③"],
         "assigned": false
       },
       {
         "times": 11,
         "datetime": "2025-04-24",
-        "menuList": [],
+        "menuList": ["Figma基本操作②", "フィットネスクラブLP制作①"],
         "assigned": false
       },
       {
         "times": 12,
         "datetime": "2025-04-25",
-        "menuList": [],
+        "menuList": ["フィットネスクラブLP制作②"],
         "assigned": false
       },
       {
         "times": 13,
         "datetime": "2025-04-28",
-        "menuList": [],
+        "menuList": ["フィットネスクラブLP制作③"],
         "assigned": false
       },
       {
         "times": 14,
         "datetime": "2025-05-01",
-        "menuList": [],
+        "menuList": ["フィットネスクラブLP制作④"],
         "assigned": true
       },
       {
         "times": 15,
         "datetime": "2025-05-02",
-        "menuList": [],
+        "menuList": ["フィットネスクラブLP制作⑤"],
         "assigned": true
       }
     ]
@@ -269,6 +269,62 @@
         "times": 9,
         "datetime": "2025-05-28",
         "menuList": [],
+        "assigned": false
+      }
+    ]
+  },
+  {
+    "classId": 2,
+    "subjectId": 4,
+    "lessonId": 1,
+    "lessonData": [
+      {
+        "times": 1,
+        "datetime": "2025-05-14",
+        "menuList": ["レンタルサーバーについて", "FTPについて", "Webサイトの公開"],
+        "assigned": true
+      }
+    ]
+  },
+  {
+    "classId": 2,
+    "subjectId": 5,
+    "lessonId": 1,
+    "lessonData": [
+      {
+        "times": 1,
+        "datetime": "2025-06-02",
+        "menuList": ["ホームページ制作企画立案①"],
+        "assigned": true
+      },
+      {
+        "times": 2,
+        "datetime": "2025-06-03",
+        "menuList": ["ホームページ制作企画立案②"],
+        "assigned": false
+      },
+      {
+        "times": 3,
+        "datetime": "2025-06-04",
+        "menuList": ["ホームページ制作企画立案③"],
+        "assigned": true
+      },
+      {
+        "times": 4,
+        "datetime": "2025-06-06",
+        "menuList": ["ホームページ制作企画立案④"],
+        "assigned": true
+      },
+      {
+        "times": 5,
+        "datetime": "2025-06-09",
+        "menuList": ["ホームページ制作企画立案⑤"],
+        "assigned": true
+      },
+      {
+        "times": 6,
+        "datetime": "2025-06-10",
+        "menuList": ["ホームページ制作企画立案⑥"],
         "assigned": false
       }
     ]
