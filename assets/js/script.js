@@ -47,7 +47,7 @@ subjectSelect.addEventListener('change',(e)=>{
       const tab = document.createElement('li');
       const tabButton = document.createElement('button');
       if (checkDate(datetime, lesson.datetime)) {
-        console.log(lesson.datetime);
+        // console.log(lesson.datetime);
         tabButton.classList.add('active');
         displayLesson(lesson);
       }
