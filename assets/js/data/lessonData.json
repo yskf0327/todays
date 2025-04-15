@@ -123,7 +123,7 @@
         "times": 5,
         "datetime": "2025-04-15",
         "menuList": ["CSS基礎③", "シングルカラムレイアウト"],
-        "assigned": false
+        "assigned": true
       },
       {
         "times": 6,
@@ -141,7 +141,7 @@
         "times": 8,
         "datetime": "2025-04-18",
         "menuList": ["Figma基本操作①", "コーディング実践演習①"],
-        "assigned": true
+        "assigned": false
       },
       {
         "times": 9,
@@ -177,7 +177,7 @@
         "times": 14,
         "datetime": "2025-05-01",
         "menuList": ["フィットネスクラブLP制作③"],
-        "assigned": false
+        "assigned": true
       },
       {
         "times": 15,
