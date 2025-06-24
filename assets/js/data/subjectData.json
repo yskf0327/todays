@@ -4,45 +4,11 @@
     "subjects": [
       {
         "subjectId": 1,
-        "subjectName": "コーディング基礎演習"
-      }
-    ]
-  },
-  {
-    "classId": 2,
-    "subjects": [
-      {
-        "subjectId": 1,
-        "subjectName": "Webページレイアウトトレーニング"
+        "subjectName": "安全衛生・コンピュータ基本操作"
       },
       {
         "subjectId": 2,
-        "subjectName": "Webページレイアウト実習"
-      },
-      {
-        "subjectId": 3,
-        "subjectName": "JavaScriptとjQuery基本操作"
-      },
-      {
-        "subjectId": 4,
-        "subjectName": "ポートフォリオ制作実習"
-      },
-      {
-        "subjectId": 5,
-        "subjectName": "ホームページ制作企画立案実習"
-      }
-    ]
-  },
-  {
-    "classId": 3,
-    "subjects": [
-      {
-        "subjectId": 1,
-        "subjectName": "コンピュータ基本操作・安全衛生"
-      },
-      {
-        "subjectId": 2,
-        "subjectName": "Web制作実習"
+        "subjectName": "Web総合基礎"
       }
     ]
   }
