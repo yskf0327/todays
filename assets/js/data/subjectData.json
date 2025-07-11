@@ -11,5 +11,43 @@
         "subjectName": "Web総合基礎"
       }
     ]
+  },
+  {
+    "classId": 2,
+    "subjects": [
+      {
+        "subjectId": 3,
+        "subjectName": "Web総合基礎"
+      },
+      {
+        "subjectId": 4,
+        "subjectName": "ページレイアウト制作実習"
+      },
+      {
+        "subjectId": 5,
+        "subjectName": "Webクリエイター能力認定試験対策"
+      },
+      {
+        "subjectId": 6,
+        "subjectName": "Web制作総合"
+      }
+    ]
+  },
+  {
+    "classId": 3,
+    "subjects": [
+      {
+        "subjectId": 1,
+        "subjectName": "Web基本知識"
+      },
+      {
+        "subjectId": 2,
+        "subjectName": "ページレイアウトトレーニング"
+      },
+      {
+        "subjectId": 3,
+        "subjectName": "ポートフォリオ制作実習"
+      }
+    ]
   }
 ]

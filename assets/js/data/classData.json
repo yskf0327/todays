@@ -6,5 +6,21 @@
     "start": "10:10",
     "end": "16:50",
     "subjects": [1, 2]
+  },
+  {
+    "classId": 2,
+    "className": "7月開講　Webデザイナー養成科",
+    "roomNo": "7B",
+    "start": "10:00",
+    "end": "16:40",
+    "subjects": [3, 4, 5, 6]
+  },
+  {
+    "classId": 3,
+    "className": "4月開講 初歩から学ぶグラフィック・Webデザイナー養成科",
+    "roomNo": "6F",
+    "start": "10:00",
+    "end": "16:40",
+    "subjects": [7, 8, 9]
   }
 ]

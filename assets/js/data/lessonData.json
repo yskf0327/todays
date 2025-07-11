@@ -20,7 +20,7 @@
       {
         "times": 1,
         "datetime": "2025-06-30",
-        "menuList": ["Webを構成する技術", "Web制作の流れ", "Visual Studio Codeの基本設定"],
+        "menuList": ["Webを構成する技術", "Web制作の流れ", "Web制作の流れ", "Visual Studio Codeの基本設定"],
         "assigned": true
       },
       {
@@ -28,6 +28,154 @@
         "datetime": "2025-07-01",
         "menuList": ["Webマーケティング概論"],
         "assigned": false
+      }
+    ]
+  },
+  {
+    "classId": 2,
+    "subjectId": 3,
+    "lessonId": 1,
+    "lessonData": [
+      {
+        "times": 1,
+        "datetime": "2025-07-07",
+        "menuList": ["自己紹介", "Web総合基礎①"],
+        "assigned": false
+      },
+      {
+        "times": 2,
+        "datetime": "2025-07-08",
+        "menuList": ["自己紹介", "Web総合基礎②"],
+        "assigned": false
+      },
+      {
+        "times": 3,
+        "datetime": "2025-07-10",
+        "menuList": ["自己紹介", "Web総合基礎③"],
+        "assigned": false
+      }
+    ]
+  },
+  {
+    "classId": 3,
+    "subjectId": 1,
+    "lessonId": 1,
+    "lessonData": [
+      {
+        "times": 1,
+        "datetime": "2025-07-10",
+        "menuList": ["自己紹介", "Web基礎知識", "Web制作環境構築"],
+        "assigned": true
+      }
+    ]
+  },
+  {
+    "classId": 3,
+    "subjectId": 2,
+    "lessonId": 2,
+    "lessonData": [
+      {
+        "times": 1,
+        "datetime": "2025-07-14",
+        "menuList": ["HTML基礎①"],
+        "assigned": true
+      },
+      {
+        "times": 2,
+        "datetime": "2025-07-15",
+        "menuList": ["HTML基礎②", "CSS基礎①"],
+        "assigned": false
+      },
+      {
+        "times": 3,
+        "datetime": "2025-07-16",
+        "menuList": ["CSS基礎②"],
+        "assigned": true
+      },
+      {
+        "times": 4,
+        "datetime": "2025-07-17",
+        "menuList": ["CSS基礎③", "シングルカラムページ制作①"],
+        "assigned": true
+      },
+      {
+        "times": 5,
+        "datetime": "2025-07-18",
+        "menuList": ["シングルカラムページ制作②"],
+        "assigned": true
+      },
+      {
+        "times": 6,
+        "datetime": "2025-07-22",
+        "menuList": ["2カラムページ制作"],
+        "assigned": false
+      },
+      {
+        "times": 7,
+        "datetime": "2025-07-23",
+        "menuList": ["タイルレイアウトページ制作", "お問い合わせページ制作"],
+        "assigned": true
+      },
+      {
+        "times": 8,
+        "datetime": "2025-07-24",
+        "menuList": ["Figma基礎①(Figmaの基本操作)"],
+        "assigned": true
+      },
+      {
+        "times": 9,
+        "datetime": "2025-07-25",
+        "menuList": ["Figma基礎②(デザインカンプ制作)"],
+        "assigned": true
+      },
+      {
+        "times": 10,
+        "datetime": "2025-07-28",
+        "menuList": ["Webページ制作実践(フィットネスクラブLP制作①)"],
+        "assigned": true
+      },
+      {
+        "times": 11,
+        "datetime": "2025-07-30",
+        "menuList": ["Webページ制作実践(フィットネスクラブLP制作②)"],
+        "assigned": true
+      },
+      {
+        "times": 12,
+        "datetime": "2025-07-31",
+        "menuList": ["Webページ制作実践(フィットネスクラブLP制作③)"],
+        "assigned": true
+      },
+      {
+        "times": 13,
+        "datetime": "2025-08-01",
+        "menuList": ["Webページ制作実践(フィットネスクラブLP制作④)"],
+        "assigned": true
+      },
+      {
+        "times": 14,
+        "datetime": "2025-08-04",
+        "menuList": ["課題制作①(考査)"],
+        "assigned": false
+      },
+      {
+        "times": 15,
+        "datetime": "2025-08-05",
+        "menuList": ["課題制作②(考査)"],
+        "assigned": true
+      }
+    ]
+  },
+  {
+    "classId": 3,
+    "subjectId": 3,
+    "lessonId": 3,
+    "lessonData": [
+      {
+        "times": 1,
+        "datetime": "2025-08-06",
+        "menuList": ["ポートフォリオ制作実習"],
+        "assigned": true
       }
     ]
   }
